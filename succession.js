@@ -303,7 +303,7 @@ chapters=[{
     },
     {
         "title":"Testamentary succession",
-        "chapternum": 3,
+        "chapternum": "3",
         "fromtosections": "Section 30",
         "sections":[
             {
@@ -322,7 +322,7 @@ chapters=[{
     },
     {
         "title":"Repeal",
-        "chapternum": 4,
+        "chapternum": "4",
         "fromtosections": "Section 31",
         "sections":[]
     }
