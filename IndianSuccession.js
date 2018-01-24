@@ -1558,30 +1558,147 @@ parts =[
             },
             {
                 "sectionnum": "#",
-                "heading": "#",
+                "heading": "CHAPTER XIII: Of Bequests to an Executor",
                 "lines":[
             
                 ]
             },
             {
+                "sectionnum": "141",
+                "heading": "Legatee named as executor cannot take unless he shows intention to act as executor.-",
+                "lines":[
+                    ' If a legacy is bequeathed to a person who is named an executor of the will, he shall not take the legacy, unless he proves the will or otherwise manifests an intention to act as executor.',
+                    'Illustratoins',
+                    "A legacy is given to A, who is named an executor. A orders the funeral according to the directions contained in the will, and dies a few days after the testator, without having proved the will. A has manifested an intention to act as executor."
+                ]
+            },
+            {
                 "sectionnum": "#",
-                "heading": "#",
+                "heading": "CHAPTER XIV: Of Specific Legacies",
                 "lines":[
             
                 ]
             },
             {
-                "sectionnum": "#",
-                "heading": "#",
+                "sectionnum": "142",
+                "heading": " Specific legacy defined.- ",
                 "lines":[
-            
+                    'Where a testator bequeaths to any person a specified part of his property, which is distinguished from all other parts of his property, the legacy is said to be specific.',
+                    'Illustrations',
+                    '(i) A bequeaths to B-- "the diamond ring presented to me by C":',
+                    '"my gold chain": "a certain bale of wool":',
+                    '"a certain piece of cloth":',
+                    '"all my household goods which shall be in or about my dwelling-house in M. Street, in Calcutta, at time of my death":',
+                    '"the sum of 1,000 rupees in a certain chest": "the debt which B owes me":',
+                    '"all my bills, bonds and securities belonging to me lying in my lodgings in Calcutta":',
+                    '"all my furniture in my house in Calcutta":',
+                    '"all my goods on board a certain ship now lying in the river Hughli":',
+                    '"2,000 rupees which I have in the hands of C":',
+                    '"the money due to me on the bond of D":',
+                    '"my mortgage on the Rampur factory":',
+                    '"one-half of the money owing to me on my mortgage of Rampur factory":',
+                    '"1,000 rupees, being part of a debt due to me from C":',
+                    '"my capital stock of 1,000l, in East India Stock":',
+                    '"my promissory notes of the Central Government for 10,000 rupees in their 4 per cent. loan":',
+                    '"all such sums of money as my executors may, after my death, receive in respect of the debt due to me from the insolvent firm of D and Company":',
+                    '"all the wine which I may have in my cellar at the time of my death": "such of my horses as B may select":',
+                    '"all my shares in the Imperial Bank of India":',
+                    '"all my shares in the Imperial Bank of India which I may possess at the time of my death":',
+                    '"all the money which I have in the 5 1/2 per cent. loan of the Central Government":',
+                    '"all the Government securities I shall be entitled to at the time of my decease."',
+                    'Each of these legacies is specific.',
+                    '(ii) A, having Government promissory notes for 10,000 rupees, bequeaths to his executors "Government promissory notes for 10,000 rupees in trust to sell" for the benefit of B. The legacy is specific.',
+                    '(iii) A, having property at Benares, and also in other places, bequeaths to B all his property at Benares. The legacy is specific.',
+                    '(iv) A bequeaths to B--',
+                    'his house in Calcutta:',
+                    'his zamindari of Rampur:',
+                    'his taluq of Ramnagar:',
+                    'his lease of the indigo-factory of Salkya:',
+                    'an annuity of 500 rupees out of the rents of his zamindari of W. A directs his zamindari of X to be sold, and the proceeds to be invested for the benefit of B.',
+                    'Each of these bequests is specific.',
+                    '(v) A by his will charges his zamindari of Y with an annuity of 1,000 rupees to C during his life, and subject to this charge he bequeaths the zamindari to D.',
+                    'Each of these bequests is specific.',
+                    '(vi) A bequeaths a sum of money--',
+                    'to buy a house in Calcutta for B:',
+                    'to buy an estate in zila Faridpur for B:',
+                    'to buy a diamond ring for B;',
+                    'to buy a horse for B:',
+                    'to be invested in shares in the Imperial Bank of India for B:',
+                    'to be invested in Government securities for B.',
+                    'A bequeaths to B--',
+                    '"a diamond ring":',
+                    '"a horse":',
+                    '"10,000 rupees worth of Government securities":',
+                    '"an annuity of 500 rupees":',
+                    '"2,000 rupees to be paid in cash":',
+                    '"so much money as will produce 5,000 rupees four per cent. Government securities."',
+                    'These bequests are not specific.',
+                    '(vii) A, having property in England and property in India, bequeaths a legacy to B, and directs that it shall be paid out of the property which he may leave in India. He also bequeaths a legacy to C, and directs that it shall be paid out of property which he may leave in England. No one of these legacies is specific.'
                 ]
             },
             {
-                "sectionnum": "#",
-                "heading": "#",
+                "sectionnum": "143",
+                "heading": "Bequest of certain sum where stocks, etc., in which invested are described.- ",
                 "lines":[
-            
+                    "Where a certain sum is bequeathed, the legacy is not specific merely because the stock, funds or securities in which it is invested are described in the will.",
+                    "Illustration",
+                    "A bequeaths to B--",
+                    "\"10,000 rupees of my funded property\":",
+                    "\"10,000 rupees of my property now invested in shares of the East Indian Railway Company\":",
+                    "\"10,000 rupees, at present secured by mortgage of Rampur factory.\"",
+                    "No one of these legacies is specific.",
+                ]
+            },
+            {
+                "sectionnum": "144",
+                "heading": "Bequest of stock where testator had, at date of will, equal or greater amount of stock of same kind.-",
+                "lines":[
+                    "Where a bequest is made in general terms of a certain amount of any kind of stock, the legacy is not specific merely because the testator was, at the date of his will, possessed of stock of the specified kind, to an equal or greater amount than the amount bequeathed.",
+                    "Illustrations",
+                    "A bequeaths to B 5,000 rupees five per cent. Government securities. A had at the date of the will five per cent. Government securities for 5,000 rupees. The legacy is not specific."
+                ]
+            },
+            {
+                "sectionnum": "145",
+                "heading": "Bequest of money where not payable until part of testator's property disposed of in certain way.- ",
+                "lines":[
+                    "A money legacy is not specific merely because the will directs its payment to be postponed until some part of the property of the testator has been reduced to a certain form, or remitted to a certain place.",
+                    "Illustration",
+                    "A bequeaths to B 10,000 rupees and directs that this legacy shall be paid as soon as A's property in India shall be realised in England.",
+                    "The legacy is not specific.",
+                ]
+            },
+            {
+                "sectionnum": "146",
+                "heading": "When enumerated articles not deemed specifically bequeathed.-",
+                "lines":[
+                    "Where a will contains a bequest of the residue of the testator's property along with an enumeration of some items of property not previously bequeathed, the articles enumerated shall not be deemed to be specifically bequeathed."
+                ]
+            },
+            {
+                "sectionnum": "147",
+                "heading": "Retention, in form, of specific bequest to several persons in succession.- ",
+                "lines":[
+                    "Where property is specifically bequeathed to two or more persons in succession, it shall be retained in the form in which the testator left it, although it may be of such a nature that its value is continually decreasing.",
+                    "Illustrations",
+                    "(i) A, having lease of a house for a term of years, fifteen of which were unexpired at the time of his death, has bequeathed the lease to B for his life, and after B's death to C. B is to enjoy the property as A left it, although, if B lives for fifteen years, C can take nothing under the bequest.",
+                    "(ii) A, having an annuity during the life of B, bequeaths it to C, for his life, and, after C's death, to D. C is to enjoy the annuity as A left it, although, if B dies before D, D can take nothing under the bequest.",
+                ]
+            },
+            {
+                "sectionnum": "148",
+                "heading": "Sale and investment of proceeds of property bequeathed to two or more persons in succession.-",
+                "lines":[
+                    "Where property comprised in a bequest to two or more persons in succession is not specifically bequeathed, it shall, in the absence of any direction to the contrary, be sold, and the proceeds of the sale shall be invested in such securities as the High Court may by any general rule authorise or direct, and the fund thus constituted shall be enjoyed by the successive legatees according to the terms of the will.",
+                    "Illustrations",
+                    "A, having a lease for a term of years, bequeaths all his property to B for life, and, after B's death, to C. The lease must be sold, the proceeds invested as stated in this section and the annual income arising from the fund is to be paid to B for life. At B's death the capital of the fund is to be paid to C."
+                ]
+            },
+            {
+                "sectionnum": "149",
+                "heading": "Where deficiency of assets to pay legacies, specific legacy not to abate with general legacies.-",
+                "lines":[
+                    " If there is a deficiency of assets to pay legacies, a specific legacy is not liable to abate with the general legacies."
                 ]
             }
         ]
