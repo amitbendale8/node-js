@@ -5,3 +5,23 @@ sample= {
 
             ]
 }
+
+
+chapters=[
+    {
+        "fromtosections": "Section 1-2",
+        "title": "Preliminary",
+        "sections": []
+    }]
+
+
+newChapter = {
+    "sectionnum": "2",
+    "heading": "",
+    "lines":[
+        ""
+    ],
+    "illustrations":[
+        
+    ]
+}
