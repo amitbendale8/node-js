@@ -11,17 +11,18 @@ chapters=[
     {
         "fromtosections": "Section 1-2",
         "title": "Preliminary",
+		"chapterNum":"1",
         "sections": []
     }]
 
 
-newChapter = {
-    "sectionnum": "2",
-    "heading": "",
-    "lines":[
-        ""
-    ],
-    "illustrations":[
-        
-    ]
-}
+newSection = {
+				"sectionnum": "2",
+				"heading": "",
+				"lines":[
+					""
+				],
+				"illustrations":[
+					
+				]
+			}
