@@ -2130,261 +2130,295 @@ chapters=[
 				]
 			},{
 				"sectionnum": "204",
-				"heading": "Destruction of document or electronic record to prevent its production as evidence.-",
+				"heading": "Destruction of document or electronic record to prevent its production as evidence.- ",
 				"lines":[
-					""
+					"Whoever secretes or destroys any *[document or electronic record] which he may be lawfully compelled to produce as evidence in a Court of Justice, or in any proceeding lawfully held before a public servant, as such, or obligates or renders illegible the whole or any part of such *[document or electronic record] with the intention of prevention the same from being produced or used as evidence before such Court or public servant as aforesaid, or after he shall have been lawfully summoned or required to produce the same for that purpose, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both."
 				],
 				"illustrations":[
 					
 				]
 			},{
-				"sectionnum": "#",
-				"heading": "",
+				"sectionnum": "205",
+				"heading": "False personation for purpose of act or proceeding in suit or prosecution.-",
 				"lines":[
-					""
+					"Whoever falsely personates another, and in such assumed character makes any admission or statement, or confesses judgment, or causes any process to be issued or becomes bail or security, or does any other act in any suit or criminal prosecution, shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both."
 				],
 				"illustrations":[
 					
 				]
 			},{
-				"sectionnum": "#",
-				"heading": "",
+				"sectionnum": "206",
+				"heading": " Fraudulent removal or concealment of property to prevent its seizure as forfeited or in execution.-",
 				"lines":[
-					""
+					"Whoever fraudulently removes, conceals, transfers or delivers to any person any property or any interest therein, intending thereby to prevent that properly or interest therein from being taken as a forfeiture or in satisfaction of a fine, under a sentence which has been pronounced, or which he knows to be likely to be pronounced, by a Court of Justice or other competent authority, or from being taken in execution of a decree or order which has been made, or which he knows to be likely to be made by a Court of Justice in a civil suit, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both."
 				],
 				"illustrations":[
 					
 				]
 			},{
-				"sectionnum": "#",
-				"heading": "",
+				"sectionnum": "207",
+				"heading": "Fraudulent claim to property to prevent its seizure as forfeited or in execution.- ",
 				"lines":[
-					""
+					"Whoever fraudulently accepts, receives or claims any property or any interest therein, knowing that he has no right or rightful claim to such property or interest, or practices any deception touching any right to any property or any interest therein, intending thereby to prevent that property or interest therein from being taken as a forfeiture or in satisfaction of a fine, under a sentence which has been pronounced, or which he knows to be likely to be pronounced by a Court of Justice or other competent authority, or from being taken in execution of a decree or order which has been made, or which he knows to be likely to be made by a Court of Justice in a civil suit, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both."
 				],
 				"illustrations":[
 					
 				]
 			},{
-				"sectionnum": "#",
-				"heading": "",
+				"sectionnum": "208",
+				"heading": "Fraudulently suffering decree for sum not due.-",
 				"lines":[
-					""
+					"Whoever fraudulently causes or suffers a decree or order to be passed against him at the suit of any person for a sum not due or for a larger sum that is due to such person or for any property or interest in property to which such person is not entitled, or fraudulently causes or suffers a decree or order to be executed against him after it has been satisfied, or for anything in respect of which it has been satisfied, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both."
+				],
+				"illustrations":[
+					"A institutes a suit against Z. Z knowing that A is likely to obtain a decree against him, fraudulently suffers a judgment to pass against him for a larger amount at the suit of B, who has no just claim against him, in order that B, either on his own account or for the benefit of Z, may share in the proceeds of any sale of Z's property which may be made under A's decree. Z has committed an offence under this section."
+				]
+			},{
+				"sectionnum": "209",
+				"heading": "Dishonestly making false claim in Court.- ",
+				"lines":[
+					"Whoever fraudulently or dishonestly, or with intent to injure or annoy any person, makes in a Court of Justice any claim which he knows to be false, shall be punished with imprisonment of either description for a term which may extend to two years, and shall also be liable to fine."
 				],
 				"illustrations":[
 					
 				]
 			},{
-				"sectionnum": "#",
-				"heading": "",
+				"sectionnum": "210",
+				"heading": "Fraudulently obtaining decree for sum not due.-",
 				"lines":[
-					""
+					"Whoever fraudulently obtains a decree or order against any person for a sum not due or for a larger sum than is due, or for any property or interest in properly to which he is not entitled, or fraudulently causes a decree or order to be executed against any person after it has been satisfied or for anything in respect of which it has been satisfied, or fraudulently suffers or permits any such act to be done in his name, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both."
 				],
 				"illustrations":[
 					
 				]
 			},{
-				"sectionnum": "#",
-				"heading": "",
+				"sectionnum": "211",
+				"heading": "False charge of offence made with intent to injure.- ",
 				"lines":[
-					""
+					"Whoever, with intent to cause injury to any person, institutes or causes to be instituted any criminal proceeding against that person, or falsely charges any person with having committed an offence, knowing that there is no just or lawful ground for such proceeding or charge against that person, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both;",
+					"and if such criminal proceeding be instituted on a false charge of an offence punishable with death, imprisonment for life, or imprisonment for seven years or upwards, shall be punishable with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine."
 				],
 				"illustrations":[
 					
 				]
 			},{
-				"sectionnum": "#",
-				"heading": "",
+				"sectionnum": "212",
+				"heading": "Harbouring offender.-",
 				"lines":[
-					""
+					'Whenever an offence has been committed, whoever harbours or conceals a person whom he knows or has reason to believe to be the offender, with the intention of screening him from legal punishment;',
+					'if a capital offence.--shall, if the offence is punishable with death, be punished with imprisonment of either description for a term which may extend to five years, and shall also be liable to fine;',
+					'if punishable with imprisonment for life, or with imprisonment.--and if the offence is punishable with imprisonment for life, or with imprisonment which may extend to ten years, shall be punished with imprisonment of either description for a term which may extend to three years, and shall also be liable to fine;',
+					'and if the offence is punishable with imprisonment which may extend to one year, and not to ten years, shall be punished with imprisonment of the description provided for the offence for a term which may extend to one-fourth part of the longest term of imprisonment provided for the offence, or with fine, or with both.',
+					'"Offence" in this section includes any act committed at any place out of India, which, if committed in India, would be punishable under any of the following sections, namely, 302, 304, 382, 392, 393, 394, 395, 396, 397, 398, 399, 402, 435, 436, 449, 450, 457, 458, 459 and 460; and every such act shall, for the purposes of this section, be deemed to be punishable as if the accused person had been guilty of it in India.',
+					'Exception.--This provision shall not extend to any case in which the harbour or concealment is by the husband or wife of the offender.'
+				],
+				"illustrations":[
+					"A, knowing that B has committed dacoity, knowingly conceals B in order to screen him from legal punishment. Here, as B is liable to imprisonment for life, A is liable to imprisonment of either description for a term not exceeding three years, and is also liable to fine."
+				]
+			},{
+				"sectionnum": "213",
+				"heading": "Taking gift, etc., to screen an offender from punishment.",
+				"lines":[
+					" Whoever accepts or attempts to obtain, or agrees to accept, any gratification for himself or any other person, or any restitution of property to himself or any other person, in consideration of his concealing an offence or of his screening any person from legal punishment for any offence, or of his not proceeding against any person for the purpose of bringing him to legal punishment,",
+					"if a capital offence.--shall, if the offence is punishable with death, be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine;",
+					"if punishable with imprisonment for life, or with imprisonment.--and if the offence is punishable with imprisonment for life, or with imprisonment which may extend to ten years, shall be punished with imprisonment of either description for a term which may extend to three years, and shall also be liable to fine;",
+					"and if the offence is punishable with imprisonment not extending to ten years, shall be punished with imprisonment of the description provided for the offence for a term which may extend to one-fourth part of the longest term of imprisonment provided for the offence, or with fine, or with both."
 				],
 				"illustrations":[
 					
 				]
 			},{
-				"sectionnum": "#",
-				"heading": "",
+				"sectionnum": "214",
+				"heading": "Offering gift or restoration of property in consideration of screening offender.-",
 				"lines":[
-					""
+					"Whoever gives or causes, or offers or agrees to give or cause, any gratification to any person, or restores or causes the restoration of any property to any person, in consideration of that person's concealing an offence, or of his screening any person from legal punishment for any offence, or of his not proceeding against any person for the purpose of bringing him to legal punishment;",
+					"if a capital offence.--shall, if the offence is punishable with death, be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine;",
+					"if punishable with imprisonment for life, or with imprisonment.--and if the offence is punishable with imprisonment for life, or with imprisonment which may extend to ten years, shall be punished with imprisonment of either description for a term which may extend to three years, and shall also be liable to fine;",
+					"and if the offence is punishable with imprisonment not extending to ten years, shall be punished with imprisonment of the description provided for the offence for a term which may extend to one-fourth part of the longest term of imprisonment provided for the offence, or with fine, or with both.",
+					"Exception.--The provisions of sections 213 and 214 do not extend to any case in which the offence may lawfully be compounded."
 				],
 				"illustrations":[
 					
 				]
 			},{
-				"sectionnum": "#",
-				"heading": "",
+				"sectionnum": "215",
+				"heading": "Taking gift to help to recover stolen property, etc.- ",
 				"lines":[
-					""
+					"Whoever takes or agrees or consents to take any gratification under pretence or on account of helping any person to recover any movable property of which he shall have been deprived by any offence punishable under this Code, shall, unless he uses all means in his power to cause the offender to be apprehended and convicted of the offence, be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both."
 				],
 				"illustrations":[
 					
 				]
 			},{
-				"sectionnum": "#",
-				"heading": "",
+				"sectionnum": "216",
+				"heading": "Harbouring offender who has escaped from custody or whose apprehension has been ordered.- ",
 				"lines":[
-					""
+					'Whenever any person convicted of or charged with an offence, being in lawful custody for that offence, escapes from such custody;',
+					'or whenever a public servant, in the exercise of the lawful powers of such public servant, orders a certain person to be apprehended for an offence, whoever, knowing of such escape or order for apprehension, harbours of conceals that person which the intention of preventing him from being apprehended, shall be punished in the manner following that is to say:--',
+					'if a capital offence.--if the offence for which the person was in custody or is ordered to be apprehended is punishable with death, he shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine;',
+					'if punishable with imprisonment for life, or with imprisonment.--if the offence is punishable with imprisonment for life, or imprisonment for ten years, he shall be punished with imprisonment of either description for a term which may extend to three years, with or without fine;',
+					'and if the offence is punishable with imprisonment which may extend to one year and not to ten years, he shall be punished with imprisonment of the description provided for the offence for a term which may extend to one-fourth part of the longest term of the imprisonment provided for such offence, or with fine, or with both.',
+					'"Offence" in this section includes also any act or omission of which a person is alleged to have been guilty out of India, which, if he had been guilty of it in India, would have been punishable as an offence, and for which he is, under any law relating to extradition, or otherwise, liable to be apprehended or detained in custody in India; and every such act or omission shall, for the purposes of this section, be deemed to be punishable as if the accused person had been guilty of it in India.',
+					'Exception.--This provision does not extend to the case in which the harbour or concealment is by the husband or wife of the person to be apprehended.'
 				],
 				"illustrations":[
 					
 				]
 			},{
-				"sectionnum": "#",
-				"heading": "",
+				"sectionnum": "216A",
+				"heading": "Penalty for harbouring robbers or dacoits.- ",
 				"lines":[
-					""
+					"Whoever, knowing or having reason to believe that any persons are about to commit or have recently committed robbery or dacoity, harbours them or any of them, with the intention of facilitating the commission of such robbery or dacoity or of screening them or any of them from punishment, shall be punished with rigorous imprisonment for a term which may extend to seven years, and shall also be liable to fine.",
+					"Explanation.--For the purposes of this section it is immaterial whether the robbery or dacoity is intended to be committed, or has been committed, within or without India.",
+					"Exception.--This provision does not extend to the case in which the harbour is by the husband or wife of the offender."
 				],
 				"illustrations":[
 					
 				]
 			},{
-				"sectionnum": "#",
-				"heading": "",
+				"sectionnum": "216B",
+				"heading": 'Definition of "harbour" in sections 212, 216 and 216A [Repealed].',
 				"lines":[
-					""
+					"[Repealed by the Indian Penal Code (Amendment) Act, 1942 (8 of 1942), section 3.]"
 				],
 				"illustrations":[
 					
 				]
 			},{
-				"sectionnum": "#",
-				"heading": "",
+				"sectionnum": "217",
+				"heading": "Public servant disobeying direction of law with intent to save person from punishment or property from forfeiture.-",
 				"lines":[
-					""
+					"Whoever, being a public servant, knowingly disobeys any direction of the law as to the way in which he is to conduct himself as such public servant, intending thereby to save, or knowing it to be likely that he will thereby save, any person from legal punishment, or subject him to a less punishment than that to which he is liable, or with intent to save, or knowing that he is likely thereby to save, any property from forfeiture or any charge to which it is liable by law, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both."
 				],
 				"illustrations":[
 					
 				]
 			},{
-				"sectionnum": "#",
-				"heading": "",
+				"sectionnum": "218",
+				"heading": "Public servant framing incorrect record or writing with intent to save person from punishment or property from forfeiture.-",
 				"lines":[
-					""
+					"Whoever, being a public servant, and being as such public servant, charged with the preparation of any record or other writing, frames that record or writing in a manner which he knows to be incorrect, with intent to cause, or knowing it to be likely that he will thereby cause, loss or injury to the public or to any person, or with intent thereby to save, or knowing it to be likely that he will thereby save, any person from legal punishment, or with intent to save, or knowing that he is likely thereby to save, any properly from forfeiture or other charge to which it is liable by law, shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both."
 				],
 				"illustrations":[
 					
 				]
 			},{
-				"sectionnum": "#",
-				"heading": "",
+				"sectionnum": "219",
+				"heading": "Public servant in judicial proceeding corruptly making report, etc., contrary to law.-",
 				"lines":[
-					""
+					"Whoever, being a public servant, corruptly or maliciously makes or pronounces in any stage of a judicial proceeding, any report, order, verdict, or decision which he knows to be contrary to law, shall be punished with imprisonment of either description for a term which may extend to seven years, or with fine, or with both."
 				],
 				"illustrations":[
 					
 				]
 			},{
-				"sectionnum": "#",
-				"heading": "",
+				"sectionnum": "220",
+				"heading": "Commitment for trial or confinement by person having authority who knows that he is acting contrary to law.-",
 				"lines":[
-					""
+					"Whoever, being in any office which gives him legal authority to commit persons for trial or to commitment, or to keep persons in confinement, corruptly or maliciously commits any person for trial or to confinement, or keeps any person in confinement, in the exercise of that authority knowing that in so doing he is acting contrary to law, shall he punished with imprisonment of either description for a term which may extend to seven years, or with fine, or with both."
 				],
 				"illustrations":[
 					
 				]
 			},{
-				"sectionnum": "#",
-				"heading": "",
+				"sectionnum": "221",
+				"heading": "Intentional omission to apprehend on the part of public servant bound to apprehend.- ",
 				"lines":[
-					""
+					'Whoever, being a public servant, legally bound as such public servant to apprehend or to keep in confinement any person charged with or liable to apprehended for an offence, intentionally omits to apprehend such person, or intentionally suffers such person to escape, or intentionally aids such person in escaping or attempting to escape from such confinement, shall be punished as follows, that is to say:--',
+					'with imprisonment of either description for a term which may extend to seven years, with or without fine, if the person in confinement, or who ought to have been apprehended, was charged with, or liable to be apprehended for, an offence punishable with death; or',
+					'with imprisonment of either description for a term which may extend to three years, with or without fine, if the person in confinement, or who ought to have been apprehended, was charged with, or liable to be apprehended for, an offence punishable with imprisonment for life or imprisonment for a term which may extend to ten years; or',
+					'with imprisonment of either description for a term which may extend to two years, with or without fine, if the person in confinement, or who ought to have been apprehended, was charged with, or liable to be apprehended for, an offence punishable with imprisonment for a term less than ten years.'
 				],
 				"illustrations":[
 					
 				]
 			},{
-				"sectionnum": "#",
-				"heading": "",
+				"sectionnum": "222",
+				"heading": "Intentional omission to apprehend on the part of public servant bound to apprehend person under sentence or lawfully committed.-",
 				"lines":[
-					""
+					" Whoever, being a public servant, legally bound as such public servant to apprehend or to keep in confinement any person under sentence of a Court of Justice for any offence or lawfully committed to custody, intentionally omits to apprehend such person, or intentionally suffers such person to escape or intentionally aids such person in escaping or attempting to escape from such confinement, shall be punished as follows, that is to say:--",
+					"with imprisonment for life or with imprisonment of either description for a term which may extend to fourteen years, with or without fine, if the person in confinement, or who ought to have been apprehended, is under sentence of death; or",
+					"with imprisonment of either description for a term which may extend to seven years, with or without fine, if the person in confinement or who ought to have been apprehended, is subject, by a sentence of a Court of Justice, or by virtue of a commutation of such sentence, to imprisonment for life imprisonment for a term often years or upwards; or",
+					"with imprisonment of either description for a term which may extend to three years, or with fine, or with both, if the person in confinement, or who ought to have been apprehended is subject, by a sentence of a Court of Justice, to imprisonment for a term not exceeding to ten years or if the person was lawfully committed to custody."
 				],
 				"illustrations":[
 					
 				]
 			},{
-				"sectionnum": "#",
-				"heading": "",
+				"sectionnum": "223",
+				"heading": "Escape from confinement or custody negligently suffered by public servant.-",
 				"lines":[
-					""
+					"Whoever, being a public servant legally bound as such public servant to keep in confinement any person charged with or convicted of any offence or lawfully committed to custody, negligently suffers such person to escape from confinement, shall be punished with simple imprisonment for a turn which may extend to two years, or with fine, or with both."
 				],
 				"illustrations":[
 					
 				]
 			},{
-				"sectionnum": "#",
-				"heading": "",
+				"sectionnum": "224",
+				"heading": "Resistance or obstruction by a person to his lawful apprehension.- ",
 				"lines":[
-					""
+					"Whoever intentionally offers any resistance or illegal obstruction to the lawful apprehension of himself for any offence with which he is charged or of which he has been convicted, or escapes or attempts to escape from any custody in which he is lawfully detained for any such offence, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.",
+					"Explanation.--The punishment in this section is in addition to the punishment for which the person to be apprehended or detained in custody was liable for the offence with which he was charged, or of which he was convicted."
 				],
 				"illustrations":[
 					
 				]
 			},{
-				"sectionnum": "#",
-				"heading": "",
+				"sectionnum": "225",
+				"heading": "Resistance or obstruction to lawful apprehension of another person.- ",
 				"lines":[
-					""
+					'Whoever intentionally offers any resistance or illegal obstruction to the lawful apprehension of any other person for an offence, or rescues or attempts to rescue any other person from any custody in which that person is lawfully detained for an offence, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both;',
+					'or, if the person to be apprehended, or the person rescued or attempted to be rescued, is charged with or liable to be apprehended for an offence punishable with imprisonment for life or imprisonment for a term which may extend to ten years, shall be punished with imprisonment of either description for a term which may extend to three years, and shall also be liable to fine;',
+					'or, if the person to be apprehended, or the person attempted to be rescued, is charged with or liable to be apprehended for an offence punishable with death, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine;',
+					'or, if the person to be apprehended or rescued, or attempted to be rescued, is liable under the sentence of a Court of Justice, or by virtue of a commutation of such a sentence, to imprisonment for life or imprisonment, for a term of ten years or upwards, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine;',
+					'or, if the person to be apprehended or rescued, or attempted to be rescued, is under sentence of death, shall be punished with 1 [imprisonment for life] or imprisonment of either description for a term not exceeding ten years, and shall also be liable to fine.'
 				],
 				"illustrations":[
 					
 				]
 			},{
-				"sectionnum": "#",
-				"heading": "",
+				"sectionnum": "225A",
+				"heading": " Omission to apprehend, or sufferance of escape, on part of public servant, in cases not otherwise, provided for.-",
 				"lines":[
-					""
+					" Whoever, being a public servant legally bound as such public servant to apprehend, or to keep in confinement, any person in any case not provided for in section 221, section 222 or section 223, or in any other law for the time being in force, omits to apprehend that person or suffers him to escape from confinement, shall be punished--",
+					"(a) if he does so intentionally, with imprisonment of cither description for a term which may extend to three years, or with fine, or with both; and",
+					"(b) if he does so negligently, with simple imprisonment for a term which may extend to two years, or with fine, or with both."
 				],
 				"illustrations":[
 					
 				]
 			},{
-				"sectionnum": "#",
-				"heading": "",
+				"sectionnum": "225B",
+				"heading": "Resistance or obstruction to lawful apprehension, or escape or rescue in cases not otherwise provided for.-",
 				"lines":[
-					""
+					"Whoever, in any case not provided for in section 224 or section 225 or in any other law for the time being in force, intentionally offers any resistance or illegal obstruction to the lawful apprehension of himself or of any other person, or escapes or attempts to escape from any custody in which he is lawfully detained, or rescues or attempts to rescue any other person from any custody in which that person is lawfully detained, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine, or with both."
 				],
 				"illustrations":[
 					
 				]
 			},{
-				"sectionnum": "#",
-				"heading": "",
+				"sectionnum": "226",
+				"heading": "Unlawful return from transportation [Repealed].- ",
 				"lines":[
-					""
+					"[Rep. by the Code of Criminal Procedure (Amendment) Act, 1955 (26 of 1955), section 117 and Schedule, (w.e.f. 1-1-1956).]"
 				],
 				"illustrations":[
 					
 				]
 			},{
-				"sectionnum": "#",
-				"heading": "",
+				"sectionnum": "227",
+				"heading": "Violation of condition of remission of punishment.- ",
 				"lines":[
-					""
+					" Whoever, having accepted any conditional remission of punishment, knowingly violates any condition on which such remission was granted, shall be punished with the punishment to which he was originally sentenced, if he has already suffered no part of that punishment, and if he has suffered any part of that punishment, then with so much of that punishment as he has not already suffered."
 				],
 				"illustrations":[
 					
 				]
 			},{
-				"sectionnum": "#",
-				"heading": "",
+				"sectionnum": "228",
+				"heading": "Intentional insult or interruption to public servant sitting in judicial proceeding.-",
 				"lines":[
-					""
-				],
-				"illustrations":[
-					
-				]
-			},{
-				"sectionnum": "#",
-				"heading": "",
-				"lines":[
-					""
-				],
-				"illustrations":[
-					
-				]
-			},{
-				"sectionnum": "#",
-				"heading": "",
-				"lines":[
-					""
+					"Whoever intentionally offers any insult, or causes any interruption to any public servant, while such public servant is sitting in any stage of a judicial proceeding, shall be punished with simple imprisonment for a term which may extend to six months, or with fine which may extend to one thousand rupees, or with both."
 				],
 				"illustrations":[
 					

@@ -17,7 +17,7 @@ chapters=[
 
 
 newSection = {
-				"sectionnum": "2",
+				"sectionnum": "#",
 				"heading": "",
 				"lines":[
 					""
@@ -25,4 +25,4 @@ newSection = {
 				"illustrations":[
 					
 				]
-			}
+			},
